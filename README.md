@@ -1,11 +1,5 @@
 # Easybank landing page con Sass
 
-Proyecto desarrollado junto a [**@LeonidasEsteban**](https://www.youtube.com/leonidasesteban) en el **#LiveLiveCoding #3**
-
-- **Live Demo :** https://yomarsanchez.github.io/easybank-landing-page <br />
-- **Video Youtube :** https://youtu.be/O_KOi4t3GdM <br />
-- **Challenge :** https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN <br />
-
 <p align="center">
   <a href="https://repository-images.githubusercontent.com/266900712/950b3e80-9eb6-11ea-9b4e-010725c3cc11" target="_black">
     <img src="https://repository-images.githubusercontent.com/266900712/950b3e80-9eb6-11ea-9b4e-010725c3cc11" width="1024">
